@@ -8,6 +8,8 @@ http://0.0.0.0
 
 ----YouTube
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://colunadofla.com/wp-content/uploads/2016/12/tv.coluna.png" group-title="YouTube",TV Flamengo
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/OhHwMZc4mqM
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/3V154WM.png" group-title="YouTube",A24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live

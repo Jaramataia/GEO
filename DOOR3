@@ -1,7 +1,56 @@
 
-<item>
-<title>[B]Monstrous[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E80FC4A5246C6C406426F6C1C06E8E1ABC5FBCE&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.67-GB.Monstrous.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce</link>
-<thumbnail>https://vacatorrent.com/imagens/monstrous-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>A história de um arqueólogo que resolve casos bizarros. Uma vila varrida pelo desastre com a descoberta de um nobre Buda misterioso, o caos de pessoas enfrentando horrores estranhos e o processo de persegui-los fornece suspense que percorre os ossos. Emissora: TVING • Episódios: 6 • Duração: 35 min.</info>
-</item>
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",Litoral brasileiro passando pela Ilha do Mel, Santos, Ubatuba e Paraty
+https://proxy-027.dc3.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-aSJOinztEyU9XmMW4-dCkoydxVMz8TkIR9sz8JyNyfaH6e1D_ONpSbbdSo6pIb0xv4YcCly-2ApmhBKmReLYFE)/video/145/896/493698541_mp4_h264_aac_hd.m3u8#cell=core
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",PLANÍCIES, PLANALTOS, MONTANHAS E DEPRESSÕES- AS FORMAS DE RELEVO CONTINENTAL
+https://proxy-002.dc3.dailymotion.com/sec(UoA1sdU9rYQHE4nL1sa5ROdrp8BYEusTWBvxS91rxoD0Z1VAGfW7rba7tAgXD5_YoIuM56fYgmp3FkpZKa1XtsvwuCKzoWuZBLlZwWbCLq4)/video/323/896/493698323_mp4_h264_aac_hq.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",Fluxos Migratórios
+https://proxy-039.dc3.dailymotion.com/sec(aZJbBa-i7L8siFHhRXmEvQqCuCpwDOPMefMs5lJxcbC8yZEPGQfZBTDyjzhLm5XNKeaCo4O70ws-J_tivLlC8gtQIwYJDC9WZjk3YUn4d20)/video/342/896/493698243_mp4_h264_aac_hd.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",Desigualdade social no Brasil
+https://proxy-001.dc3.dailymotion.com/sec(Bf4sEhVqYgA_fMJKdNdkP_YEul0ObF4QDDA6qKZb38wRC6LdUqn4OekTv36vv69mQRBS2l2cqY6wM7TVuyAZE_ad3icBVfouwVaFOgcs2Ak)/video/242/896/493698242_mp4_h264_aac.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",A formação da Cordilheira dos Andes - Explicação
+https://proxy-003.ix7.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-T1jPSr3dkHT55MubT2qCtlYL5LMJKU-UHnEDZq_zjr91pElUFXh_LBdMr3FkSc7kD_c6hkzgsWcRPeMZq7WN8I)/video/142/896/493698241_mp4_h264_aac.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao", Os agentes internos e externos do relevo
+https://proxy-028.dc3.dailymotion.com/sec(vlh-KpwGb8HUr2KugsbYOT377uZ4jz4-Hd6hPg5uQKHrwF92rfqRM0x_YMSl_G-ZHoXRRKq9uwQr_7m0M1gNxACkk-WycWNwol5hhWrJtL4)/video/411/896/493698114_mp4_h264_aac.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",Climograma - Criança
+https://proxy-005.ix7.dailymotion.com/sec(c_3UyTQqz2uDejUOzUXOEdkoYDsFykGMvSUSfD2pN7uKSXmKauQ1QoT_a0z1tUTBLyxRAqGG5-dURjGFK0VlpO7gbYe9E9zd0ZkPdsbK2lo)/video/731/872/493278137_mp4_h264_aac_hd.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",Previsão do tempo - como é feita - Crianças
+https://proxy-044.ix7.dailymotion.com/sec(a-xnh38FX-dtsG2LoOMN1AkvxwRyylW1tj0kHxBpE3TVeHR7mVCRWmG3GpcekfUEXEml_popJTW-R5fpxHi_KwJ30QkRKn4iX_5I9obtoss)/video/189/772/493277981_mp4_h264_aac_hd.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",Massas de Ar - Crianças
+https://proxy-009.ix7.dailymotion.com/sec(jXl_r_CZ7rKteLo7P67RkAr-ffhZf4IWolM9HGvhBn6hKCx_hmiUjhAo3z46CBDw-37W_B5KOnhNblY80c8JhfLDRCsXGfm8-Zhrt0F-4Ns)/video/697/772/493277796_mp4_h264_aac.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",O clima - Os tipos de clima - Crianças
+https://proxy-044.dc3.dailymotion.com/sec(LL70bUvxgBlOH8BfPRBrX1hfyXYpgeGKyEam23Fe26Xu6TISPhp7jGX7_c1dTDKzTkVilC0ud0mN8Wrykuyu6vuVeD9NnzlhUZZ5lTkdqRI)/video/215/772/493277512_mp4_h264_aac_hd.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",Mudanças climáticas- os alertas de cientistas sobre o meio ambiente e o futuro da humanidade
+https://proxy-016.dc3.dailymotion.com/sec(YNIM0Z7pM0_G8_IAIuJiEA3bzREUEK3d1XtAl3StKputperGAyWOk2nW8I6nU0-Ipo0oyYyWY3vI2AIHgPdIHPO5kVXdcZFzEitbuPMnMuk)/video/449/672/493276944_mp4_h264_aac_hd.m3u8#cell=core
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Educacao",O Clima do Planeta Terra - Documentário
+https://proxy-007.ix7.dailymotion.com/sec(xC_iF4nXGoWVwevj08vdLffGSBcnHeCu1nANtGOtJ7t5YAbKkVtfjiJEeYGtGpIO1xHqH8boVNf_eqZ7IITlG8-wlC-fmYN2MSBR4uTAnis)/video/073/672/493276370_mp4_h264_aac.m3u8#cell=core
+
+
+#####################################
+
+
+

@@ -1,6 +1,9 @@
 
+#EXTM3U
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" size="Medium"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista", 15/06/2022
+http://0.0.0.0
 
 ################################################################################# Globo
 

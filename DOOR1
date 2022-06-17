@@ -1,10 +1,9 @@
 
 
-
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista", 05/06/2022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista", 17/06/2022
 http://0.0.0.0
 
 ====Globo
@@ -54,11 +53,26 @@ https://canal4stream.sidys.com.br/canal4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="BRASIL",WEB TV CN AGITOS
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/4GUweIZ.png" group-title="BRASIL",WEB TV OPÇÃO RJ
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+
 #EXTINF:-1 tvg-logo="https://lirp.cdn-website.com/18121d94/dms3rep/multi/opt/LOGO+CANAL+RICOS+SEM+FUNDO-1920w.png" group-title="TV Aberta",Canal Ricos SP
 https://5d2c98775bafe.streamlock.net:443/8090/8090/playlist.m3u8
 
 
 ===Noticiais
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/08SucJq.png" group-title="Notícias",BandNews
+http://cdn.connectbr.com.br/BandNews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVtn7zH.png" group-title="Notícias",GloboNews
+http://187.85.237.3:8220/ipvt_004
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVtn7zH.png" group-title="Notícias",GloboNews
+http://187.85.237.3:8220/ipvt_001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRnPKDM.png" group-title="Notícias",Record News
+http://45.232.196.7:5000/live/RICNEWS/720p.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="https://i.imgur.com/NRnPKDM.png" group-title="Notícias",Record News ES
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
@@ -77,8 +91,28 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 ===Infantil
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Infantil",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLxIpHS.png" group-title="Infantil",Cartoonito
+http://45.232.196.7:5000/live/CARTOONITO/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELBHHzJ.png" group-title="Infantil",Clubinho Fun
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idY9saN.png" group-title="Infantil",Discovery Kids
+http://45.232.196.7:5000/live/DISCKIDS/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTHozRe.png" group-title="Infantil",Nickelodeon
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Infantil",Tooncast
+http://cdn.connectbr.com.br/Tooncast/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OB2f3N8.png" group-title="Infantil",TV R?-Tim-Bum
+http://45.232.196.7:5000/live/RATIMBUM/720p.m3u8
+
 
 ===Esportes
 
@@ -88,11 +122,23 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://i.imgur.com/q92za8a.png" group-title="Esportes",BandSports
 http://cdn.connectbr.com.br/BandSports/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q92za8a.png" group-title="Esportes",BandSports
+http://cdn.connectbr.com.br/BandSports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q92za8a.png" group-title="Esportes",BandSports
+http://45.232.196.7:5000/live/BANDSPORTS/720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/n8O1sgs.png" group-title="Esportes" ,Canal 11 - futebol | Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itc2Moe.png" group-title="Esportes",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtyiv1p.png" group-title="Esportes",ESPN 2
+http://45.232.196.7:5000/live/ESPN2/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cX1sv83.png" group-title="Esportes",ESPN Extra
+http://45.232.196.7:5000/live/ESPNEXTRA/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uhdzG0P.png" group-title="Esportes",Fox Sports 2
+http://187.85.237.31:8825/ipvt_003
 
 #EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -105,6 +151,48 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-logo="https://i.imgur.com/S7DCwx0.png" group-title="Esportes",Yeeaah | Brasil
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+===Esportes internacional
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itc2Moe.png" group-title="Esportes Internacional",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ck1qmrN.png" group-title="Esportes Internacional",ESPN Latin America
+http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtyiv1p.png" group-title="Esportes Internacional",ESPN 2 Latin America
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxx3Cqu.png" group-title="Esportes Internacional",ESPN 3 Latin America
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBKqcRA.png" group-title="Esportes Internacional",ESPN 4 Latin America
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cX1sv83.png" group-title="Esportes Internacional",ESPN Extra Latin America
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R4DJNZm.png" group-title="Esportes Internacional",Fox Sports Argentina
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uhdzG0P.png" group-title="Esportes Internacional",Fox Sports 2 LA
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2dL9PE.png" group-title="Esportes Internacional",Fox Sports 3 LA
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6nmb1r.png" group-title="Esportes Internacional",NBA TV
+http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlYs2JL.png" group-title="Esportes Internacional",TNT Sports Argentina
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcguhLg.png" group-title="Esportes Internacional",TyC Sports
+http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6nmb1r.png" group-title="Esportes Internacional",PX Sports
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8
+
 
 ===Lutas
 
